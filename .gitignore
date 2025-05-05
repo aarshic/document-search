@@ -1,2 +1,5 @@
 node_modules/
-finance_documents/ 
+finance_documents/
+venv/
+__pycache__/
+.DS_Store

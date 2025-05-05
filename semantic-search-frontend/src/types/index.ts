@@ -4,6 +4,7 @@ export interface SearchResult {
   metadata: {
     filename: string;
     path: string;
+    tags: string[];
   };
   similarity_score: number;
 }
